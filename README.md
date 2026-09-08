@@ -1,7 +1,4 @@
 # Student-Wellbeing-Statistical-Analysis-And-Probability-
-# Student Wellbeing Statistical Analysis & Probability
-
-## Day 16 – Statistical Analysis and Probability
 
 This project analyzes a **Student Wellbeing Survey dataset** using Python, Pandas, and NumPy.
 The notebook covers descriptive statistics, outlier detection, probability, conditional probability, independence, Bayes' theorem, and the normal distribution.
